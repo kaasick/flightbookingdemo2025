@@ -1,0 +1,15 @@
+Siia kirjutan oma enda mõtetest.
+
+1. Backend
+
+Ajakulu: ca 4h
+Raskusaste: 2/5
+
+SpiringBootiga projekte on juba mitmeid tehtud, ehk selle alustalad ei valmistanud probleeme. Raskeks osutus selle projekti puhul just struktuur välja mõelda, et mis kuhu ja kust, sest lennu komponendid on päris seotud.
+Millega seoses on ka keerulisem pakkuda lahendust soovitusmehannismile, ja tagada selle kindel töö. Just jällegi sellepärast, et eelistusi on mitmeid ja kuidas tagada neile aus skaala.
+Seetõttu otsustasin lahendada selle lihtsa punktisüsteemiga. Muidugi on alati ka kõige keerulisem, et mis siis teha, kui on vaja kahte kohta kõrvuti ja nii edasi.
+
+AI genereeritud asjad (Claude 3.7 sonnet)
+- BackEndi dokumentatsioon AI genereeritud
+- Testinformatsioon ja testid AI genereeritud
+- Abi küsitud service kausta klasside täitmisega, ilma AI kooditagasuseta, lihtsalt mõtetega
